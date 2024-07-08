@@ -7,3 +7,4 @@ web h5开发过程中遇到的问题汇总
 - [vidvideo不同浏览器的表现](/video不同浏览器的表现.md)
 - [移动端的100vh](/移动端的100vh.md)
 - [webm与mov视频格式](/webm与mov视频格式.md)
+- [babel在h5中的应用](/babel在h5中的应用.md)
