@@ -51,4 +51,12 @@ Chrome 的自动播放政策很简单：
 
 [x5内核 video问题](https://x5.tencent.com/docs/questions.html)
 
-与谷歌一致
+- 支持自动静音播放
+
+  ## 微信浏览器
+  [Android微信内网页音频自动播放能力调整](https://developers.weixin.qq.com/community/develop/doc/000e640d77cfa001132a6cb8456c01?highLine=%25E5%25BE%25AE%25E4%25BF%25A1%25E7%25BD%2591%25E9%25A1%25B5%2520%25E8%25A7%2586%25E9%25A2%2591%2520autoplay)
+
+  - 安卓微信不支持autoplay属性
+  - IOS微信支持autoplay属性
+ 
+  相关的解决办法：https://developers.weixin.qq.com/community/develop/doc/000644bcbc0460ea28199e55d52000?highLine=%25E5%25BE%25AE%25E4%25BF%25A1%25E7%25BD%2591%25E9%25A1%25B5%2520%25E8%25A7%2586%25E9%25A2%2591%2520autoplay
