@@ -60,3 +60,13 @@ Chrome 的自动播放政策很简单：
   - IOS微信支持autoplay属性
  
   相关的解决办法：https://developers.weixin.qq.com/community/develop/doc/000644bcbc0460ea28199e55d52000?highLine=%25E5%25BE%25AE%25E4%25BF%25A1%25E7%25BD%2591%25E9%25A1%25B5%2520%25E8%25A7%2586%25E9%25A2%2591%2520autoplay
+
+## video常见问题
+
+### video播放时报parse error的问题
+
+这种情况通常是视频编码问题，以及视频封面poster的链接错误导致的
+
+### [微信IOS获取摄像头video不播放的问题](https://developers.weixin.qq.com/community/develop/doc/00084ef48ec418bb060114fb66b800?highLine=getUserMedia%2520ios)
+
+解决办法： https://developers.weixin.qq.com/community/develop/doc/00084ef48ec418bb060114fb66b800?highLine=getUserMedia%2520ios
